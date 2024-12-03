@@ -8,4 +8,4 @@ O jogo é baseado no clássico conceito de interação entre dois jogadores, com
 <img src="https://github.com/Gildo33/projeto-money/blob/main/assets/Joker-P%C3%B4%20desktop.png?raw=true">
 <br>
 <h3>Projeto Responsivo - Sansung S8</h3>
-<img src="">
+<img src="https://github.com/Gildo33/projeto-money/blob/main/assets/Sansug%20S8.png?raw=true">
