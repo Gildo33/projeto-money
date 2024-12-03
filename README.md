@@ -4,6 +4,8 @@
 
 O jogo é baseado no clássico conceito de interação entre dois jogadores, com uma interface simples e intuitiva. Cada jogador deve fazer escolhas e agir estrategicamente para vencer o oponente, com base nas opções que o jogo oferece.</p>
 <br>
-<img src="">
+<h3>Projeto no Desktop</h3>
+<img src="https://github.com/Gildo33/projeto-money/blob/main/assets/Joker-P%C3%B4%20desktop.png?raw=true">
 <br>
+<h3>Projeto Responsivo - Sansung S8</h3>
 <img src="">
